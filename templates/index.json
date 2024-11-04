@@ -103,20 +103,20 @@
         "collection-0": {
           "type": "collection",
           "settings": {
-            "collection": ""
+            "collection": "beginner-drones"
           }
         },
         "product": {
           "type": "product",
           "settings": {
-            "product": "",
+            "product": "waterproof-hard-case-for-dji-fpv-drone-compact-carrying-solution-for-fpv-drone-kit-and-accessories-case-only",
             "second_image": false
           }
         },
         "collection-1": {
           "type": "collection",
           "settings": {
-            "collection": ""
+            "collection": "drone-accessories"
           }
         }
       },
@@ -142,6 +142,7 @@
         "heading": "",
         "heading_size": "h1",
         "enable_video_looping": false,
+        "video": "shopify://files/videos/AdobeStock_833967892_Video_HD_Preview.mov",
         "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "description": "",
         "full_width": false,
@@ -156,8 +157,8 @@
         "column1": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "title": "Fast Shipping",
+            "text": "<p>Get your orders quickly with our fast and reliable shipping! Enjoy quick processing and speedy delivery, so you can start flying sooner.</p>",
             "link_label": "",
             "link": ""
           }
@@ -165,8 +166,8 @@
         "column2": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "title": "Customer Service Commitment",
+            "text": "<p>Experience exceptional customer service with Drones Direct USA. Our knowledgeable team is here to help you every step of the way—from choosing the perfect drone to after-purchase support.</p>",
             "link_label": "",
             "link": ""
           }
@@ -174,8 +175,8 @@
         "column3": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "title": "USA based",
+            "text": "<p>Located in the USA, Drones Direct offers fast, local service and support, ensuring quick shipping and dedicated assistance tailored to our American customers</p>",
             "link_label": "",
             "link": ""
           }
