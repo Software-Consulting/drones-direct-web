@@ -139,7 +139,7 @@
     "custom_liquid_TEhg3C": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<div style=\"text-align: center;\">\n<a href=\"https://click.dji.com/ADiM5OEwyv-vr9tbEFIcag?pm=ad_image\" target=_blank><img src=\"https://u.djicdn.com/uploads/ad_image_file/file/5162/DAP-728x90.jpg\" style=\"width: auto;\"></a>\n</div>",
+        "custom_liquid": "<div style=\"text-align: center;\">\n<a href=\"https://click.dji.com/ADiM5OEwyv-vr9tbEFIcag?pm=ad_image\" target=_blank><img src=\"https://u.djicdn.com/uploads/ad_image_file/file/5162/DAP-728x90.jpg\" width=\"100%\"></a>\n</div>",
         "color_scheme": "",
         "padding_top": 40,
         "padding_bottom": 52
