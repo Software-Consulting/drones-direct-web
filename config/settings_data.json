@@ -168,6 +168,12 @@
           "button_vertical_position": "lowest",
           "greeting_message": "Chat with us to explore our top picks, get advice, or ask about special offers. Let's take your adventure to new heights!"
         }
+      },
+      "9432750614194193090": {
+        "type": "shopify://apps/trustify-reviews/blocks/app-embed-block/60d505af-e468-47cf-a184-a06ccd6703ac",
+        "disabled": false,
+        "settings": {
+        }
       }
     },
     "color_schemes": {
