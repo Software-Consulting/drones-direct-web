@@ -72,7 +72,7 @@
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
-        "title": "Featured products",
+        "title": "Explore Our Top-Rated Drones for Every Skill Level",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
@@ -126,7 +126,7 @@
         "collection-1"
       ],
       "settings": {
-        "heading": "More Drones",
+        "heading": "Explore More High-Quality Drones for Every Adventure",
         "heading_size": "h2",
         "desktop_layout": "left",
         "mobile_layout": "collage",
