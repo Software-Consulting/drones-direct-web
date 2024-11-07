@@ -20,10 +20,18 @@
             "text": "Fly high with the DJI Avata FPV Drone – now 20% off! Capture stunning 4K video with ease. Click Here!",
             "link": "https://amzn.to/3YsP1SQ"
           }
+        },
+        "announcement_WQUzr3": {
+          "type": "announcement",
+          "settings": {
+            "text": "Use code 5offdrones for 5% off all drones",
+            "link": ""
+          }
         }
       },
       "block_order": [
-        "announcement-bar-0"
+        "announcement-bar-0",
+        "announcement_WQUzr3"
       ],
       "settings": {
         "color_scheme": "",
