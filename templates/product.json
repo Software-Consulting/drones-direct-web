@@ -232,12 +232,29 @@
         "padding_top": 36,
         "padding_bottom": 28
       }
+    },
+    "173094874663e9df8f": {
+      "type": "apps",
+      "blocks": {
+        "trustify_reviews_app_product_block_AipmTD": {
+          "type": "shopify://apps/trustify-reviews/blocks/app-product-block/60d505af-e468-47cf-a184-a06ccd6703ac",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "trustify_reviews_app_product_block_AipmTD"
+      ],
+      "settings": {
+        "include_margins": true
+      }
     }
   },
   "order": [
     "main",
     "image-with-text",
     "multicolumn",
-    "related-products"
+    "related-products",
+    "173094874663e9df8f"
   ]
 }
