@@ -14,13 +14,6 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
-        "announcement-bar-0": {
-          "type": "announcement",
-          "settings": {
-            "text": "Fly high with the DJI Avata FPV Drone – now 20% off! Capture stunning 4K video with ease. Click Here!",
-            "link": "https://amzn.to/3YsP1SQ"
-          }
-        },
         "announcement_WQUzr3": {
           "type": "announcement",
           "settings": {
@@ -30,7 +23,6 @@
         }
       },
       "block_order": [
-        "announcement-bar-0",
         "announcement_WQUzr3"
       ],
       "settings": {
