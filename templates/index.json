@@ -43,6 +43,7 @@
         "text",
         "button"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/5-off-all-drones-1920.webp",
         "image_overlay_opacity": 40,
@@ -196,6 +197,75 @@
         "padding_bottom": 36
       }
     },
+    "featured_product_FdArpw": {
+      "type": "featured-product",
+      "blocks": {
+        "text_TtiXWL": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title_ahPJqJ": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "price_Rwz4iD": {
+          "type": "price",
+          "settings": {}
+        },
+        "variant_picker_Kk6xay": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "swatch_shape": "circle"
+          }
+        },
+        "quantity_selector_fNezih": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons_NVzn4R": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "share_mXAPQd": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "text_TtiXWL",
+        "title_ahPJqJ",
+        "price_Rwz4iD",
+        "variant_picker_Kk6xay",
+        "quantity_selector_fNezih",
+        "buy_buttons_NVzn4R",
+        "share_mXAPQd"
+      ],
+      "settings": {
+        "product": "phantom-3-professional-aerial-drone",
+        "color_scheme": "",
+        "secondary_background": false,
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "multicolumn": {
       "type": "multicolumn",
       "blocks": {
@@ -256,6 +326,7 @@
     "featured_collection",
     "collection_list_TLm3wA",
     "collage",
+    "featured_product_FdArpw",
     "multicolumn"
   ]
 }
