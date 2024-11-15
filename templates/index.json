@@ -44,8 +44,7 @@
         "button"
       ],
       "settings": {
-        "image": "shopify://shop_images/drone-flying-overhead.jpg",
-        "image_2": "shopify://shop_images/hand-reaching-out-to-drone.jpg",
+        "image": "shopify://shop_images/5-off-drones.webp",
         "image_overlay_opacity": 40,
         "image_height": "small",
         "desktop_content_position": "bottom-center",
