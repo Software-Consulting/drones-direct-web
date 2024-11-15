@@ -43,7 +43,6 @@
         "text",
         "button"
       ],
-      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/5-off-all-drones-1920.webp",
         "image_overlay_opacity": 40,
