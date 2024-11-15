@@ -20,10 +20,18 @@
             "text": "Use code 5offdrones for 5% off all drones",
             "link": ""
           }
+        },
+        "announcement_E4cza3": {
+          "type": "announcement",
+          "settings": {
+            "text": "Free Shipping on ALL orders!",
+            "link": ""
+          }
         }
       },
       "block_order": [
-        "announcement_WQUzr3"
+        "announcement_WQUzr3",
+        "announcement_E4cza3"
       ],
       "settings": {
         "color_scheme": "",
