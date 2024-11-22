@@ -27,11 +27,19 @@
             "text": "Free Shipping on ALL orders!",
             "link": ""
           }
+        },
+        "announcement_iGVjnm": {
+          "type": "announcement",
+          "settings": {
+            "text": "FREE 2 Day Shipping anywhere in the US",
+            "link": ""
+          }
         }
       },
       "block_order": [
         "announcement_WQUzr3",
-        "announcement_E4cza3"
+        "announcement_E4cza3",
+        "announcement_iGVjnm"
       ],
       "settings": {
         "color_scheme": "",
